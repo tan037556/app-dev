@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# Black Mirror
+***Black Mirror*** is a British anthology television series created by Charlie Brooker. The series explores various genres, with most episodes set in near-future dystopias containing sci-fi technology—a type of speculative fiction. The series is inspired by The Twilight Zone and uses the themes of technology and media to comment on contemporary social issues. Most episodes are written by Brooker with involvement by the executive producer Annabel Jones.
